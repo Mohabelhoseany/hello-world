@@ -2,7 +2,7 @@
 my first repo
 
 Hi Everyone,
-It's a pleassure to be here with all of and thanks a lot for your interest in reading this :)
+It's a pleasure to be here with all of and thanks a lot for your interest in reading this :)
 
 My Name is Mohab
 I am a product manager & telecom engineer
